@@ -1,0 +1,8 @@
+﻿  Building 'ssdt_get_function' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  源.c
+D:\windows driver\ssdt_get_function\ssdt_get_function\ssdt_get_function\源.c(58,28): warning C4100: “driverobj”: 未引用的形参
+D:\windows driver\ssdt_get_function\ssdt_get_function\ssdt_get_function\源.c(65,1): warning C4047: “初始化”:“const PKeServiceDescriptorTable”与“ULONGLONG”的间接级别不同
+D:\windows driver\ssdt_get_function\ssdt_get_function\ssdt_get_function\源.c(62,64): warning C4100: “seg_path”: 未引用的形参
+  ssdt_get_function.vcxproj -> D:\windows driver\ssdt_get_function\ssdt_get_function\x64\Release\ssdt_get_function.sys
+  Inf2Cat task was skipped as there were no inf files to process
+  
